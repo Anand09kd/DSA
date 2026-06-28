@@ -1,6 +1,3 @@
-from turtle import right
-
-
 class Node:
     def __init__(self, value):
         self.left = None
